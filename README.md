@@ -1,2 +1,2 @@
 # Year-Leap-or-not-Leap
-A simple code to know if a year is leap or not
+If response is True, is a Year Leap, but the response is False, the Year is not Leap
